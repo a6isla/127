@@ -1,0 +1,23 @@
+<br> <br> <br> <br> <br> <br> <br> <br>
+    <section id="loadouts" class="loadouts-section">
+      <h2 class="heading">My <span>Loadouts</span></h2>
+      <h3>Shotgun Builds</h3> <br> <br> <br>
+      <div class="loadout-gallery">
+        <div class="loadout-item">
+          <img
+            src="/Loadouts/Wallpapers/1.jpg"
+            data-full="/Loadouts/Wallpapers/1.jpg"
+            alt="Loadout 1"
+            class="loadout-thumbnail"
+          />
+        </div>
+
+        <div class="loadout-item">
+            <img
+              src="/Loadouts/Wallpapers/2.jpg"
+              data-full="/Loadouts/Wallpapers/2.jpg"
+              alt="Loadout 2"
+              class="loadout-thumbnail"
+            />
+            <p></p>
+          </div>
